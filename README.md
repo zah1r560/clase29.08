@@ -5,6 +5,6 @@
 |Rogger Leonardo|Agurto Romero|
 |Gerson Adriel|Rosas Román|
 |Yehoshua Zahir|Pisconte Intor|
-|Manuel Alejandro|Toledo Viera|
+|Alejandro Manuel|Toledo Viera|
 |Valeria Adriana|Mamani Vara|
 |Ariana Victoria| Sifuentes Candia|
