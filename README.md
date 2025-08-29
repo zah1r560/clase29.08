@@ -1,5 +1,6 @@
 # Clase 29.08
 ## Grupo: *Bionicos* 
+<center>
 |Name           |Last Name    |
 |---------------|-------------|
 |Rogger Leonardo|Agurto Romero|
@@ -8,3 +9,4 @@
 |Alejandro Manuel|Toledo Viera|
 |Valeria Adriana|Mamani Vara|
 |Ariana Victoria| Sifuentes Candia|
+</center>
