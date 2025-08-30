@@ -1,5 +1,19 @@
 # Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
+
+
+## Descripción 
+Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del 2do ciclo y creamos este repositirio con el fin de poner en práctica lo aprendido en nuestra clase de "Procesos de innovación en Bioingeniería"
+
+|Name            |Last Name    |
+|----------------|-------------|
+|Rogger Leonardo |Agurto Romero|
+|Gerson Adriel   |Rosas Román|
+|Yehoshua Zahir  |Pisconte Intor|
+|Alejandro Manuel|Toledo Viera|
+|Valeria Adriana |Mamani Vara|
+|Ariana Victoria | Sifuentes Candia|
+=======
 <details>
   <summary>Rogger Agurto</summary>
   <div>
@@ -13,7 +27,7 @@
   </div>
 </details>
 <details>
-  <summary>Ariana Fuentes</summary>
+  <summary>Ariana Sifuentes</summary>
 </details>
 <details>
   <summary>Zahir Pisconte</summary>
@@ -24,3 +38,4 @@
 <details>
   <summary>Alejandro Toledo</summary>
 </details>
+
