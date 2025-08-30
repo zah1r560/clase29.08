@@ -1,7 +1,5 @@
 # Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
-## descripción del grupo:
-wasawasawasa
 
 |Name            |Last Name    |
 |----------------|-------------|
