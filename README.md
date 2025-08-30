@@ -7,14 +7,14 @@
   <summary>Gerson Rosas</summary>
 </details>
 <details>
-  <sumary>Ariana Fuentes</sumary>
+  <summary>Ariana Fuentes</summary>
 </details>
 <details>
-  <sumary>Zahir Pisconte</sumary>
+  <summary>Zahir Pisconte</summary>
 </details>
 <details>
   <summary>Valeria Mamani</summary>
 </details>
 <details>
-  <sumary>Alejandro Toledo</sumary>
+  <summary>Alejandro Toledo</summary>
 </details>
