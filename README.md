@@ -1,4 +1,3 @@
-# Clase 29.08
 ## Grupo: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
 
