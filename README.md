@@ -1,8 +1,6 @@
 # Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
 <details>
-  ## DESCRIPCIÓN DEL GRUPO
-  Somos estudiantes de segundo ciclo de la carrera de Ingeniería Biomédica del curso "Procesos de Innovación en Bioingeniería"
   <summary>Rogger Agurto</summary>
   <div>
     <p>Me llamo Leonardo, me gusta programar</p>
