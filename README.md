@@ -1,4 +1,4 @@
-## Grupo: *Bionicos* 
+# Grupo: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
 
 |Name            |Last Name    |
