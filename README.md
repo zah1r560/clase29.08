@@ -1,11 +1,20 @@
-# Grupo: *Bionicos* 
+# Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
-
-|Name            |Last Name    |
-|----------------|-------------|
-|Rogger Leonardo |Agurto Romero|
-|Gerson Adriel   |Rosas Román|
-|Yehoshua Zahir  |Pisconte Intor|
-|Alejandro Manuel|Toledo Viera|
-|Valeria Adriana |Mamani Vara|
-|Ariana Victoria | Sifuentes Candia|
+<details>
+  <summary>Rogger Agurto </summary>
+</details>
+<details>
+  <summary>Gerson Rosas</summary>
+</details>
+<details>
+  <sumary>Ariana Fuentes</sumary>
+</details>
+<details>
+  <sumary>Zahir Pisconte</sumary>
+</details>
+<details>
+  <summary>Valeria Mamani</summary>
+</details>
+<details>
+  <sumary>Alejandro Toledo</sumary>
+</details>
