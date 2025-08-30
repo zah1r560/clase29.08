@@ -23,6 +23,8 @@
 </details>
 <details>
   <summary>Valeria Mamani</summary>
+  <div> EDAD: 17 AÑOS
+  <div> Pasatiempos: Jugar videojuegos, hacer natación, la repostería y mi interés en el área de Ingeniería Biomédica es el área de Tejidos y Biomecánica.</div></div>
 </details>
 <details>
   <summary>Alejandro Toledo</summary>
