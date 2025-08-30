@@ -8,7 +8,9 @@
 </details>
 <details>
   <summary>Gerson Rosas</summary>
-  Hola
+  <div>
+    <p>Hola</p>
+  </div>
 </details>
 <details>
   <summary>Ariana Fuentes</summary>
