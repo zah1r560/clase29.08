@@ -17,6 +17,9 @@
 </details>
 <details>
   <summary>Zahir Pisconte</summary>
+  <div> EDAD: 18 AÑOS 
+  <div> PASATIEMPOS: Jugar basquet y cantar en la ducha </div></div>
+  
 </details>
 <details>
   <summary>Valeria Mamani</summary>
