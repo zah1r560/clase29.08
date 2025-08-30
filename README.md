@@ -1,7 +1,7 @@
 # Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
 ## DESCRIPCIÓN DE GRUPO
-  Somos estuidante de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecientes al segundo ciclo del curso "Procesos de Innovación en Bioingeniería". Este repositorio ha sido creado con el fin de presentar los avances que se vayan realizando de nuestro proyecto.
+Somos estuidantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecientes al segundo ciclo del curso "Procesos de Innovación en Bioingeniería". Este repositorio ha sido creado con el fin de presentar los avances que se vayan realizando de nuestro proyecto.Nuestro grupo(nuermo 3) lleva por nombre "Biónicos"
 <details>
   <summary>Rogger Agurto</summary>
   <div>
