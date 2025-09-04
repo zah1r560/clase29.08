@@ -20,7 +20,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
 <details>
   <summary>Ariana Sifuentes</summary>
   <div>EDAD: 19 AÑOS
-<./img/IMG-20250903-WA0314.jpg>
+<img src="/img/IMG-20250903-WA0314.jpg">
   PASATIEMPOS: Disfruto mucho de pasar tiempo con mis amigos, me encanta escuchar música y ver los atardeceres. Despues de terminar el pregado en Ingenieria Biomedica, quiero especializarme en biotecnologia e ingenieria de tejidos y biomateriales</div>
 </details>
 <details>
