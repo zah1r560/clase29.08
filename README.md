@@ -1,7 +1,7 @@
 # Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
 ## DESCRIPCIÓN DE GRUPO
-Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecientes al segundo ciclo del curso "Procesos de Innovación en Bioingeniería". Este repositorio ha sido creado con el fin de presentar los avances que se vayan realizando de nuestro proyecto. Nuestro grupo(Numero 3) lleva por nombre "Biónicos". 
+Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecientes al segundo ciclo del curso "Procesos de Innovación en Bioingeniería". Este repositorio ha sido creado con el fin de presentar los avances que se vayan realizando de nuestro proyecto. Nuestro grupo (Número 3) lleva por nombre "Biónicos". 
 ![Grupo Bionicos](./img/Imagen-de-WhatsApp-2025-08-29.jpg)
 ## Integrantes
 <details>
