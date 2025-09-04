@@ -1,13 +1,14 @@
 # Grupo 3: *Bionicos* 
 ![Presentación](./img/bionicos.jpg)
 ## DESCRIPCIÓN DE GRUPO
-Somos estuidantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecientes al segundo ciclo del curso "Procesos de Innovación en Bioingeniería". Este repositorio ha sido creado con el fin de presentar los avances que se vayan realizando de nuestro proyecto.Nuestro grupo(nuermo 3) lleva por nombre "Biónicos"
-
+Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecientes al segundo ciclo del curso "Procesos de Innovación en Bioingeniería". Este repositorio ha sido creado con el fin de presentar los avances que se vayan realizando de nuestro proyecto. Nuestro grupo(Numero 3) lleva por nombre "Biónicos". 
+![Grupo Bionicos](./img/Imagen-de-WhatsApp-2025-08-29.jpg)
 ## Integrantes
 <details>
   <summary>Rogger Agurto</summary>
   <div>
-    <p>Me llamo Leonardo, me gusta programar</p>
+    EDAD: 17
+    PASATIEMPOS: Jugar videojuegos, programar, dormir, jugar basket y voley. Ademas disfruto investigar sobre lo q va venir en los proximos ciclos (mas si es FUNPRO 👩‍💻)
   </div>
 </details>
 <details>
