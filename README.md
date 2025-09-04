@@ -31,7 +31,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
 </details>
 <details>
   <summary>Valeria Mamani</summary>
-  <img src="/img/WhatsApp Image 2025-09-03 at 3.30.04 PM.jpeg">
+  <img src="/img/10 sin título_20250904164530.png">
   <div> EDAD: 17 AÑOS
   <div> Pasatiempos: Jugar videojuegos, hacer natación, la repostería y mi interés en el área de Ingeniería Biomédica es el área de Tejidos y Biomecánica.</div></div>
 </details>
