@@ -13,8 +13,11 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
 </details>
 <details>
   <summary>Gerson Rosas</summary>
+  <img src="/img/gersonrosas.jpeg" alt="Gerson" width="300">
   <div>
-    <p>Hola</p>
+    <p>EDAD: 17 años<br>
+      PASATIEMPOS: Salir con amigos, dormir, jugar videojuegos, tocar la guitarra o el violin, me encanta la musica, programar y comer.
+    </p>
   </div>
 </details>
 <details>
@@ -27,7 +30,6 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
   <summary>Zahir Pisconte</summary>
   <div> EDAD: 18 AÑOS 
   <div> PASATIEMPOS: Jugar básquet y cantar en la ducha </div></div>
-  
 </details>
 <details>
   <summary>Valeria Mamani</summary>
