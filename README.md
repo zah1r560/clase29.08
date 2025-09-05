@@ -33,7 +33,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
   <summary>Valeria Mamani</summary>
   <img src="/img/10 sin título_20250904164530.png">
   <div> EDAD: 17 AÑOS
-  <div> Pasatiempos: Jugar videojuegos, hacer natación, la repostería y escuchar música. Mi interés en la carrera de Ingeniería Biomédica es el área de Tejidos y biomateriales y la Biomecánica.</div></div>
+  <div> PASATIEMPOS: Jugar videojuegos, hacer natación, la repostería y escuchar música. Mi interés en la carrera de Ingeniería Biomédica es el área de Tejidos y biomateriales y la Biomecánica.</div></div>
 </details>
 <details>
   <summary>Alejandro Toledo</summary>
