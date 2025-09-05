@@ -28,6 +28,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
 </details>
 <details>
   <summary>Zahir Pisconte</summary>
+  <img src="WhatsApp Image 2025-09-04 at 9.42.28 PM.jpeg">
   <div> EDAD: 18 AÑOS 
   <div> PASATIEMPOS: Jugar básquet y cantar en la ducha </div></div>
 </details>
