@@ -6,7 +6,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH, pertenecien
 ## Integrantes
 <details>
   <summary>Rogger Agurto</summary>
-  <div>
+  <img src="/img/IMG-20250904-WA0369.jpg">
     <p>EDAD: 17</p>
     <p></p>PASATIEMPOS: Jugar videojuegos, programar, dormir, jugar basket y voley. Ademas disfruto investigar sobre lo q va venir en los proximos ciclos (mas si es FUNPRO 👩‍💻)</p>
   </div>
